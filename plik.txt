@@ -1,1 +1,3 @@
 Plik do wysłania na Git.
+
+Wersja druga.
