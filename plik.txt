@@ -6,7 +6,7 @@ Plik do wysłania na Git.
 Wersja druga.
 Plik do wysłania na Git.
 
-Wersja druga.
+Wersja druga.(Zmiana 1)
 Plik do wysłania na Git.
 
-Wersja druga.
+Wersja druga. (Zmiana 2)
