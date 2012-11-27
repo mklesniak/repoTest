@@ -1,7 +1,10 @@
 Plik do wysłania na Git.
 
 Wersja druga. To jest linia trzecia~
-Plik do wysłania na Git.(Zmiana w tej samej lini)
+
+
+Plik do wysłania na Git. Zmiana konfliktowa.
+
 
 Wersja druga.
 Plik do wysłania na Git.
