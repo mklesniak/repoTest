@@ -1,6 +1,6 @@
 Plik do wysłania na Git.
 
-Wersja druga.
+Wersja druga. To jest linia trzecia~
 Plik do wysłania na Git.
 
 Wersja druga.
