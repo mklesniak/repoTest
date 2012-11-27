@@ -10,3 +10,5 @@ Wersja druga.(Zmiana 1)
 Plik do wysłania na Git.
 
 Wersja druga. (Zmiana 2)
+
+zmiana 3
